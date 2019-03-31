@@ -1,4 +1,9 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+This is a example app integrating GSAP with react.
 
 ## Available Scripts
 
